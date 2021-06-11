@@ -1,2 +1,2 @@
 # superherotang.github.io
-# hqyx.xyz
+# hqyx.xyz blog
